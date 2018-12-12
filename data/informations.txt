@@ -1,0 +1,9 @@
+Orphan gene:
+https://en.wikipedia.org/wiki/Orphan_gene
+
+GFF format:
+https://www.ensembl.org/info/website/upload/gff.html
+http://gmod.org/wiki/GFF2
+
+Yeast Gene Order Browser(YGOB):
+http://ygob.ucd.ie/
