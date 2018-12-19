@@ -10,3 +10,4 @@ http://ygob.ucd.ie/
 
 RPS BLAST:
 https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/rpsblast/
+ftp://ftp.ncbi.nih.gov/blast/executables/LATEST/

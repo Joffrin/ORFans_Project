@@ -31,5 +31,22 @@ Une récente création de gènes de novo -> ne doit pas avoir d'homologues du to
 De tel gènes sont appelés : gènes orphelins.
 
 ---------
-Il faut une définitions claire d'espèce proches (closely related) 
+Il faut une définition claire d'espèce proches (closely related) étant donné le # croissant de génomes séquencés pour le # d'ORFan identifié. -> pas de seuil strict mais tous les orfans doivent être placés dans un contexte phylogénétique.
+
+--> Essayer d'identifier les orfans en distinguant entre les gènes évoluant vite, les pertes de gènes chez des esp proches, et les gènes crées de novo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
