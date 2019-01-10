@@ -1,0 +1,52 @@
+
+
+INTRODUCTION:
+
+Emergence de gènes de novo:
+
+-> Premiers types de mécanismes:
+
+gènes codants évoluent de diff manières: mutations, insertions, délétions.
+
+spéciations & variation de pop -> gènes en copies multiples qui divergent avec le tps.
+duplication gène & génome entier -> aug # membres dans une famille de gènes et permet la sous-fonctionnalisation
+
+-> Autres mécanismes de créations de nouveau gènes codant (causant des variations dans une famille de prt):
+
+mécanismes les + freq -> fusion de gènes, délétions = change l'architecture du domaine d'une prt.
+Evènements fréquents -> + utile d'analyser l'évolution des prt depuis le pt de vue du domaine prt car considéré comme une unité évolutive.
+Souvent les unités évolutives coincident avec une unité de repliement structurale indépendante.
+
+Variation de struc de prt : addition/délétion de domaines uniques en Nter ou Cter + autres réarrangements. SAUF les protéines à répétition de domaines oû fréquent d'avoir un tandem interne de duplication d'un ou plusieurs domaines répétés.
+pour bcp de prt: il y a des répétitions internes difficiles à identifier et ayant une origine évolutive commune.
+
+--------
+Ce qui a été dit plus haut: mécanismes générant de nouveau gènes codant à partir de matériels de gènes codant déjà existant. Mais il y a eu forcément dans l'histoire des créations de gènes codant à partir de matériel génétique non codant!
+
+aujourd'hui bcp de familles prt existent dans ressemblences entre elles -> les création de novo ont probablement eu lieu à de multiples occasions mais pas d'idée des freq d'apparition de gènes de novo.
+
+Mecanisme de transformation d'informations non codant en codant = création de gènes de novo.
+
+Une récente création de gènes de novo -> ne doit pas avoir d'homologues du tout, et après quelques tps il ne devrait pas y en avoir ailleurs que dans les espèces proches.
+De tel gènes sont appelés : gènes orphelins.
+
+---------
+Il faut une définition claire d'espèce proches (closely related) étant donné le # croissant de génomes séquencés pour le # d'ORFan identifié. -> pas de seuil strict mais tous les orfans doivent être placés dans un contexte phylogénétique.
+
+--> Essayer d'identifier les orfans en distinguant entre les gènes évoluant vite, les pertes de gènes chez des esp proches, et les gènes crées de novo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
